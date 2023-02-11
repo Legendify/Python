@@ -46,4 +46,4 @@ for i in range(round):
 
 print('AI Point:' , AIPoint)
 print('User Point:' , UserPoint)
-print("Thanks!"+"\nBye")
+print("Thanks!"+"\nBye!")
