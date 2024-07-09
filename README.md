@@ -2,7 +2,7 @@
 <h3 align="left"> <b> Description </b> </h3>
 <p align="left"> These projects and mini projects are scripts that I write with Python as a hobby and exercise. </br>
 One day, I decided to share their source codes to help people and now you can use them  
-<a href="https://github.com/Legendify
+<a href="https://github.com/Legendify/Python
   /Python" alt=Python > here! </a> </p>
 <h2 align="center"> <b>Languages & Technologies </b> </h2> </br> 
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
